@@ -1,4 +1,4 @@
-# Erai Kolis - Ia Tezh Litav | Music Track Sharing Page
+# Erai - Kolis Ia Tezh Litav | Music Track Sharing Page
 
 A modern, responsive music track sharing page inspired by Amuse.io's design, featuring optimized performance and Meta pixel integration.
 
